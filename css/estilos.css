@@ -1,0 +1,17 @@
+body {
+  background-image: url("../img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  color: white;
+}
+#content {
+  background-color: rgba(156, 142, 17, 0.6);
+}
+.logo h1 {
+  font-size: 35px;
+}
+.logo h2 {
+  font-size: 25px;
+  text-align: right;
+}
